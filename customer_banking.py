@@ -24,7 +24,7 @@ def main():
 
             while True:
                 savings_interest = input(
-                    "Please enter your APR interest rate for the savings account.\n"
+                    "Please enter your annual interest rate for the savings account.\n"
                 )
                 # Removes % if input by user
                 savings_interest = savings_interest.replace("%", "", 1)
@@ -69,7 +69,7 @@ def main():
 
             while True:
                 cd_interest = input(
-                    "Please enter your APR interest rate for the CD account.\n"
+                    "Please enter your annual interest rate for the CD account.\n"
                 )
 
                 # Removes % if input by user
