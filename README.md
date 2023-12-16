@@ -24,7 +24,7 @@ Follow the prompts and input savings account balance, interest rate, and months.
 
 Step 4:
 
-Follow the prompts and input CD account balance, interest rate, and months, Your interest earned and updated CD account balance will print.
+Follow the prompts and input CD account balance, interest rate, and months. Your interest earned and updated CD account balance will print.
 
 #### Considerations
 
